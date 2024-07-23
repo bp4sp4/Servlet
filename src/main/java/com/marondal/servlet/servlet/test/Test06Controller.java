@@ -12,7 +12,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 
-@WebServlet("/servlet/test08")
+@WebServlet("/servlet/test06")
 public class Test06Controller extends HttpServlet {
 
 	@Override
